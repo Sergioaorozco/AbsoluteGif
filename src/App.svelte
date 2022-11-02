@@ -22,8 +22,8 @@
           </div>
         </div>
         <div class="card_toggle w-7/12 card_img ">
-          <img class="card_item static_img" src="public/images/static_NASA.png" alt="">
-          <img class="card_item animated_img" src="public/images/animated_NASA.gif" alt="">
+          <img class="card_item static_img" src="./images/static_NASA.png" alt="">
+          <img class="card_item animated_img" src="./images/animated_NASA.gif" alt="">
         </div>
       </a>
     </article>
@@ -43,8 +43,8 @@
           </div>
         </div>
         <div class="card_toggle card_img w-10/12 transition-all">
-          <img class="card_item static_img" src="public/images/static_pig.png" alt="">
-          <img class="card_item animated_img" src="public/images/animated_pig.gif" alt="">
+          <img class="card_item static_img" src="./images/static_pig.png" alt="">
+          <img class="card_item animated_img" src="./images/animated_pig.gif" alt="">
         </div>
       </a>
     </article>
@@ -64,8 +64,8 @@
           </div>
         </div>
         <div class="card_toggle card_img w-10/12 transition-all -rotate-12">
-          <img class="card_item static_img" src="public/images/static_drink.png" alt="">
-          <img class="card_item animated_img" src="public/images/animated_drink.gif" alt="">
+          <img class="card_item static_img" src="./images/static_drink.png" alt="">
+          <img class="card_item animated_img" src="./images/animated_drink.gif" alt="">
         </div>
       </a>
     </article>
@@ -85,8 +85,8 @@
           </div>
         </div>
         <div class="card_toggle card_img -rotate-12">
-          <img class="card_item static_img" src="public/images/static_hand.png" alt="">
-          <img class="card_item animated_img" src="public/images/animated_hand.gif" alt="">
+          <img class="card_item static_img" src="./images/static_hand.png" alt="">
+          <img class="card_item animated_img" src="./images/animated_hand.gif" alt="">
         </div>
       </a>
     </article>
