@@ -22,7 +22,7 @@
           </div>
         </div>
         <div class="card_toggle w-7/12 card_img ">
-          <img class="card_item static_img" src="./images/static_nasa.png" alt="">
+          <img class="card_item static_img" src="./images/static_nasa2.png" alt="">
           <img class="card_item animated_img" src="./images/animated_nasa.gif" alt="">
         </div>
       </a>
